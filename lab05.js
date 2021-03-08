@@ -1,5 +1,5 @@
 alert("Welcome to our shop");
-var item = prompt("choose your favourite choclate");
+var item = prompt("choose your favourite choclate dark or white");
 
 while( item!="white" && item!="dark")
   { item= prompt("choose your favourite choclate");  
