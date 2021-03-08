@@ -3,6 +3,7 @@ var item = prompt("choose your favourite choclate dark or white");
 
 while( item!="white" && item!="dark")
   { item= prompt("choose your favourite choclate dark or white");  
+  document.write(item);
   }
 if (item=="white" || item=="dark")
  {
