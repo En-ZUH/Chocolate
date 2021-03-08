@@ -2,7 +2,7 @@ alert("Welcome to our shop");
 var item = prompt("choose your favourite choclate dark or white");
 
 while( item!="white" && item!="dark")
-  { item= prompt("choose your favourite choclate");  
+  { item= prompt("choose your favourite choclate dark or white");  
   }
 if (item=="white" || item=="dark")
  {
